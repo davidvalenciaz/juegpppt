@@ -13,3 +13,11 @@ h1{
     width: 250px;
 }
 
+.manos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.mano{
+    height: 150px;
+}
